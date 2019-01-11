@@ -4,7 +4,7 @@
 
 totalSum = 0
 
-for number in range(1,1000):
+for number in range(1, 1000):
     if number % 3 == 0:
         totalSum += number
     elif number % 5 == 0:
@@ -12,4 +12,4 @@ for number in range(1,1000):
     else:
         pass
 
-print totalSum
+print(totalSum)

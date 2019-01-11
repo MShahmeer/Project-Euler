@@ -17,4 +17,4 @@ while term2 < 4000000:
     else:
         pass
 
-print "Sum of even terms: " + str(evenSum)
+print("Sum of even terms: " + str(evenSum))

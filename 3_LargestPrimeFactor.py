@@ -5,19 +5,21 @@ numberToFindPrimeFactorsOf = 600851475143
 factorsOfNum = []
 primeFactorsOfNum = []
 
-def checkIfNumIsPrime(factor):
-	if factor == 1:
-		return False
-	else:
-		return all(factor % num for num in xrange(2, factor))
 
-for number in xrange(1, numberToFindPrimeFactorsOf + 1):
+def checkifnumisprime(factor):
+    if factor == 1:
+        return False
+    else:
+        return all(factor % num for num in range(2, factor))
+
+
+for number in range(1, numberToFindPrimeFactorsOf + 1):
     if numberToFindPrimeFactorsOf % number == 0:
         factorsOfNum.append(number)
 
 for factor in factorsOfNum:
-    print factor
-    if checkIfNumIsPrime(factor):
+    print(factor)
+    if checkifnumisprime(factor):
         primeFactorsOfNum.append(factor)
 
-print "The largest prime factor of " + str(numberToFindPrimeFactorsOf) + " is " + str(primeFactorsOfNum[-1])
+print("The largest prime factor of " + str(numberToFindPrimeFactorsOf) + " is " + str(primeFactorsOfNum[-1]))
