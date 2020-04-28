@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e4a8a28-e6da-4804-875e-51ac30d11146" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Project-Euler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-Euler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_LargestPrimeFactor.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_LargestPrimeFactor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_LargestPalindromeProduct.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_LargestPalindromeProduct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_SmallestMultiple.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_SumSquareDifference.swift" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,28 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.4_LargestPalindromeProduct">
-    <configuration name="1_MultiplesOf3And5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project-Euler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_MultiplesOf3And5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.6_SumSquareDifference">
     <configuration name="2_EvenFibonacciNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Project-Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,18 +98,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5_SmallestMultiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project-Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_SmallestMultiple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_SumSquareDifference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project-Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_SumSquareDifference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1_MultiplesOf3And5" />
       <item itemvalue="Python.2_EvenFibonacciNumbers" />
       <item itemvalue="Python.3_LargestPrimeFactor" />
       <item itemvalue="Python.4_LargestPalindromeProduct" />
+      <item itemvalue="Python.5_SmallestMultiple" />
+      <item itemvalue="Python.6_SumSquareDifference" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6_SumSquareDifference" />
+        <item itemvalue="Python.5_SmallestMultiple" />
         <item itemvalue="Python.4_LargestPalindromeProduct" />
         <item itemvalue="Python.3_LargestPrimeFactor" />
         <item itemvalue="Python.2_EvenFibonacciNumbers" />
-        <item itemvalue="Python.1_MultiplesOf3And5" />
       </list>
     </recent_temporary>
   </component>
@@ -140,32 +168,48 @@
       <option name="presentableId" value="Default" />
       <updated>1540141472482</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1588094921232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588094921232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="172" key="CommitChangelistDialog2" timestamp="1588093133522">
+    <state x="458" y="172" key="CommitChangelistDialog2" timestamp="1588094920985">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="458" y="172" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1588093133522" />
-    <state width="1771" height="285" key="GridCell.Tab.0.bottom" timestamp="1588094788095">
+    <state x="458" y="172" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1588094920985" />
+    <state width="1771" height="285" key="GridCell.Tab.0.bottom" timestamp="1588095814498">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="285" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1588094788095" />
-    <state width="1771" height="285" key="GridCell.Tab.0.center" timestamp="1588094788094">
+    <state width="1771" height="285" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1588095814498" />
+    <state width="1771" height="285" key="GridCell.Tab.0.center" timestamp="1588095814497">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="285" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1588094788094" />
-    <state width="1771" height="285" key="GridCell.Tab.0.left" timestamp="1588094788093">
+    <state width="1771" height="285" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1588095814497" />
+    <state width="1771" height="285" key="GridCell.Tab.0.left" timestamp="1588095814497">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="285" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1588094788093" />
-    <state width="1771" height="285" key="GridCell.Tab.0.right" timestamp="1588094788094">
+    <state width="1771" height="285" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1588095814497" />
+    <state width="1771" height="285" key="GridCell.Tab.0.right" timestamp="1588095814497">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="285" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1588094788094" />
+    <state width="1771" height="285" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1588095814497" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1588092988178">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1588092988178" />
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2" timestamp="1588094924028">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1588094924028" />
   </component>
 </project>
